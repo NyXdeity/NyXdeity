@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning MERN stack and smart contracts through solidity and solana.
 - 💞️ I’m looking to collaborate on on open source projects involving MERN stack.
 - 📫 How to reach me
--     email:-
+-  email:-
 -     soniprince.work@gmail.com
--     linkedin:-
+- linkedin:-
 -     https://www.linkedin.com/in/prince-soni-12b433212/
 
 <!---
