@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PRINCE SONI @NyXdeity
 - 👀 I’m interested in web development and decentralized technologies in Web3 such as blockchains.
 - 🌱 I’m currently learning MERN stack and smart contracts through solidity and solana.
-- 💞️ I’m looking to collaborate on on open source projects involving MERN stack.
+- 💞️ I’m looking to collaborate on open source projects involving MERN stack.
 - 📫 How to reach me
 -  email:-
 -     soniprince.work@gmail.com
