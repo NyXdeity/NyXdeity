@@ -6,7 +6,7 @@
 -  email:-
 -     soniprince.work@gmail.com
 - twitter
--     https://twitter.com/Pire__ART
+-     https://twitter.com/prints_twt
 - linkedin:-
 -     https://www.linkedin.com/in/prince-soni-12b433212/
 
