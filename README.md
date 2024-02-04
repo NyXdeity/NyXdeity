@@ -5,7 +5,7 @@
 - 📫 How to reach me
 -  email:-
 -     soniprince.work@gmail.com
-- twitter
+- twitter:-
 -     https://twitter.com/prints_twt
 - linkedin:-
 -     https://www.linkedin.com/in/prince-soni-12b433212/
